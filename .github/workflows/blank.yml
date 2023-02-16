@@ -27,4 +27,4 @@ jobs:
       - uses: matt-ball/newman-action@v1.0.4
         with:
           #Название коллекции, которую запускаем
-          collection: Challenge_postman_collection.json
+          collection: demo.json
